@@ -22,3 +22,15 @@ body {
     color: #E0E0E0;
 }
 /* -----------header section end ----------*/
+/* -----------fetured section start ----------*/
+.custom-color {
+    color: #E76F51;
+}
+.featere-img {
+    width: 288px;
+    height: 243px;
+}
+.gray-scale {
+    filter: grayscale(100%);
+}
+/* -----------fetured section end ----------*/

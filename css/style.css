@@ -34,3 +34,11 @@ body {
     filter: grayscale(100%);
 }
 /* -----------fetured section end ----------*/
+/* -----------clients section start ----------*/
+.mark {
+    color:  #E76F51;
+}
+.empty {
+    color:  #E76F51;
+}
+/* -----------clients section end ----------*/

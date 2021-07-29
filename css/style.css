@@ -10,3 +10,15 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 /* -----------common style end----------- */
+/* -----------header section start--------- */
+.bg-header {
+    background-color: #264653;
+}
+.bg-btn {
+    background: #E76F51;
+    border-radius: 5px;
+}
+.text-color {
+    color: #E0E0E0;
+}
+/* -----------header section end ----------*/

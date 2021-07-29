@@ -52,3 +52,8 @@ body {
     font-size: 30px;
 }
 /* -----------description section end ----------*/
+/* -----------gallery section start ----------*/
+.carousel-img img {
+    border-radius: 15px;
+}
+/* -----------gallery section start ----------*/
